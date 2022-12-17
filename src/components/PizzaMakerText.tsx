@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import '../assets/base1.png'
+
 
 
 
