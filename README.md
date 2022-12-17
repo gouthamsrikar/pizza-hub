@@ -1,4 +1,4 @@
 # Getting Started with Pizza Hub App
 
-deployed site [pizza hub](https://github.com/facebook/create-react-app).
+deployed site [pizza hub](https://pizza-hub-007.netlify.app/).
 
